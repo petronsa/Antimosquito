@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Antimosquito</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="help">Ayuda</string>
+    <string name="about">Acerca de</string>
+    <string name="pulsar">Pulsar en el mosquito</string>
+    <string name="frecuencia">Frecuencia </string>
+    <string name="notificion">Volver a Antimosquito</string>
+</resources>

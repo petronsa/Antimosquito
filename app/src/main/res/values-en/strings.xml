@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Antimosquito</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="pulsar">Pulsar en el mosquito</string>
+    <string name="frecuencia">Frecuency </string>
+</resources>
